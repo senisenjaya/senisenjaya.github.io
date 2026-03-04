@@ -3,8 +3,15 @@ layout: default
 title: Home
 ---
 
-# Welcome
+[Home](/) • [Research](/research) • [Publications](/publications) • [People](/people) • [Contact](/contact)
 
-This is my website.
+# Seni Senjaya
 
-- [About](about)
+I study **(your 1–2 sentence research focus)**.
+
+## News
+- **2026-03** — Website launched.
+- **2025-08** — New paper on **Hellwigia** accepted at **PhytoKeys**.
+
+## Quick links
+- Latest publication: **Reinstatement of Hellwigia Warb. (Zingiberaceae) and its molecular and morphological delimitation**  https://phytokeys.pensoft.net/article/151948/
