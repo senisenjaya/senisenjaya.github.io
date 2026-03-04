@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[Home](/) • [Research](/research) • [Publications](/publications) • [People](/people) • [Contact](/contact)
+[Home](/) • [Research](/research) • [Publications](/publications) • [Contact](/contact)
 
 # Seni Senjaya
 
