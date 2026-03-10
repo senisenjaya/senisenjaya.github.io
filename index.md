@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-![Figure caption](IMG_0046.JPG)
+![Figure caption](images/P1012701.JPG)
 
 [Home](/) • [Research](/research) • [Publications](/publications) • [Contact](/contact)
 
