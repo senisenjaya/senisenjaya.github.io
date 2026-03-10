@@ -8,7 +8,7 @@ title: Publications
 # Publications
 
 ## 2026
-- **Author**, Author. *Paper title.* Venue, 2026. [PDF](assets/papers/paper.pdf)
+- 
 
 ## 2025
-- ...
+- **Senjaya SK**, Poulsen AD, Ardiyani M, Cronk QCB. 2025. Reinstatement of *Hellwigia* Warb. (Zingiberaceae) and its molecular and morphological delimitation. *PhytoKeys* 261: 233–273.
