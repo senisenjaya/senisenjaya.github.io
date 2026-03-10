@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 <div style="margin-top:-20px;">
-  <img src="/images/P1012701.JPG" alt="Cover image" style="width:100%; height:320px; object-fit:cover; display:block;">
+  <img src="/images/RCNX1927.JPG" alt="Cover image" style="width:100%; height:320px; object-fit:cover; display:block;">
 </div>
 
 [Home](/) • [Research](/research) • [Publications](/publications) • [Contact](/contact)
