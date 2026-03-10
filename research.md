@@ -16,3 +16,7 @@ My work explores the diversity and evolution of sexual systems in the ginger fam
 ## Theme 3: Pollination Biology
 My current goal is to gather empirical data on pollination systems in Zingiberaceae, develop a clearer understanding of pollination syndromes in the group, and explore how pollination interactions shape reproductive strategies and plant diversity.
 
+<div style="margin-top:-20px;">
+  <img src="/images/RCNX1927.JPG" alt="Cover image" style="width:100%; height:320px; object-fit:cover; display:block;">
+</div>
+
