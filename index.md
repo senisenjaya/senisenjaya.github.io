@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-[Home](/) • [Research](/research) • [Publications](/publications) • [Contact](/contact)
+[Home](/) • [About](/about) • [Research](/research) • [Publications](/publications) • [Contact](/contact)
 
 # Seni Senjaya
 
