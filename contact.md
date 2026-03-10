@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-[Home](/) • [Research](/research) • [Publications](/publications) • [Contact](/contact)
+[Home](/) • [About](/about) • [Research](/research) • [Publications](/publications) • [Contact](/contact)
 
 # Contact
 
