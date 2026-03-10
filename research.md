@@ -75,7 +75,7 @@ title: Research
 
 <div class="research-section">
   <h2>Pollination Biology</h2>
-  <img src="/images/your-image-3.jpg" alt="Pollination biology" class="research-img">
+  <img src="/images/RCNX1929.JPG" alt="Pollination biology" class="research-img">
   <div class="research-text">
     <p>
       My current work focuses on gathering empirical data on pollination systems
