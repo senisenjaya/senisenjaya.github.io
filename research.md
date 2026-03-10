@@ -49,7 +49,7 @@ title: Research
   <div class="pub-list">
     <strong>Relevant publications:</strong>
     <ul>
-      <li>Your paper 1</li>
+      <li>Senjaya SK, Poulsen AD, Ardiyani M, Cronk QCB. 2025. Reinstatement of Hellwigia Warb. (Zingiberaceae) and its molecular and morphological delimitation. PhytoKeys 261: 233–273.</li>
     </ul>
   </div>
 </div>
@@ -68,7 +68,7 @@ title: Research
   <div class="pub-list">
     <strong>Relevant publications:</strong>
     <ul>
-      <li>Your paper 1</li>
+      <li>paper 1</li>
     </ul>
   </div>
 </div>
@@ -87,7 +87,7 @@ title: Research
   <div class="pub-list">
     <strong>Relevant publications:</strong>
     <ul>
-      <li>Your paper 1</li>
+      <li>paper 1</li>
     </ul>
   </div>
 </div>
