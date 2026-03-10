@@ -11,7 +11,7 @@ PhD Candidate
 Department of Botany  
 University of British Columbia
 
-My research focuses on the evolutionary biology of the ginger family (Zingiberaceae). Using phylogenomic data, I aim to resolve evolutionary relationships within the family, particularly the genus *Hellwigia*. I am also interested in the evolution of sexual systems and the role of pollination biology in shaping reproductive strategies and diversification in Zingiberaceae.
+My research focuses on the evolution and systematics of the ginger family (Zingiberaceae). Using phylogenomic data, I investigate evolutionary relationships within the family, particularly the genus *Hellwigia*, and use these insights to address long-standing taxonomic questions. I am also interested in the evolution of plant sexual systems and the role of pollination biology in shaping reproductive strategies and diversification in Zingiberaceae.
 
 ## News
 - **2026-03** — Website launched.
