@@ -5,18 +5,89 @@ title: Research
 
 [Home](/) • [Research](/research) • [Publications](/publications) • [Contact](/contact)
 
-# Research
+<style>
+.research-section {
+  margin: 3rem 0;
+}
 
-## Theme 1: Phylogenetics 
-Using both traditional DNA markers (e.g., ITS) and phylogenomic data, I investigate evolutionary relationships within the genus Hellwigia (Zingiberaceae). This work helps resolve long-standing phylogenetic questions and provides a framework for studying the evolution and classification of this diverse group of tropical plants.
+.research-section h2 {
+  margin-bottom: 1rem;
+}
 
-## Theme 2: Sexual Systems Diversity and Evolution
-My work explores the diversity and evolution of sexual systems in the ginger family (Zingiberaceae). I combine phylogenetic analyses with population-level data on gender expression to better understand how reproductive systems evolve in this group. Because empirical data remain limited, a key goal of my research is to collect quantitative field data that can be integrated into a phylogenetic framework to study the evolution of sexual systems in Zingiberaceae and their broader implications for Zingiberales and monocots.
+.research-img {
+  width: 100%;
+  max-width: 700px;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 6px;
+}
 
-## Theme 3: Pollination Biology
-My current goal is to gather empirical data on pollination systems in Zingiberaceae, develop a clearer understanding of pollination syndromes in the group, and explore how pollination interactions shape reproductive strategies and plant diversity.
+.research-text {
+  max-width: 850px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
 
-<div style="margin-top:-20px;">
-  <img src="/images/RCNX1927.JPG" alt="Cover image" style="width:100%; height:320px; object-fit:cover; display:block;">
+.pub-list {
+  max-width: 850px;
+  margin: 1rem auto 0;
+}
+</style>
+
+<div class="research-section">
+  <h2>Phylogenetics of Zingiberaceae</h2>
+  <img src="/images/your-image-1.jpg" alt="Phylogenetics of Zingiberaceae" class="research-img">
+  <div class="research-text">
+    <p>
+      My research investigates evolutionary relationships within the ginger family
+      (<em>Zingiberaceae</em>) using both traditional DNA markers, such as ITS,
+      and phylogenomic datasets. By integrating single-locus and genomic-scale
+      data, I aim to resolve long-standing uncertainties in the family’s phylogeny
+      and provide a robust framework for understanding diversification and classification.
+    </p>
+  </div>
+  <div class="pub-list">
+    <strong>Relevant publications:</strong>
+    <ul>
+      <li>Your paper 1</li>
+    </ul>
+  </div>
 </div>
 
+<div class="research-section">
+  <h2>Sexual System Diversity and Evolution</h2>
+  <img src="/images/your-image-2.jpg" alt="Sexual systems" class="research-img">
+  <div class="research-text">
+    <p>
+      My work explores the diversity and evolution of sexual systems in
+      <em>Zingiberaceae</em>. I combine phylogenetic analyses with population-level
+      data on gender expression to better understand how reproductive systems evolve
+      in this group.
+    </p>
+  </div>
+  <div class="pub-list">
+    <strong>Relevant publications:</strong>
+    <ul>
+      <li>Your paper 1</li>
+    </ul>
+  </div>
+</div>
+
+<div class="research-section">
+  <h2>Pollination Biology</h2>
+  <img src="/images/your-image-3.jpg" alt="Pollination biology" class="research-img">
+  <div class="research-text">
+    <p>
+      My current work focuses on gathering empirical data on pollination systems
+      in <em>Zingiberaceae</em> to identify pollination syndromes within the group
+      and to better understand how pollination influences reproductive strategies
+      and diversification.
+    </p>
+  </div>
+  <div class="pub-list">
+    <strong>Relevant publications:</strong>
+    <ul>
+      <li>Your paper 1</li>
+    </ul>
+  </div>
+</div>
