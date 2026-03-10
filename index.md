@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+![Figure caption](images/IMG_0046.JPG)
 
 [Home](/) • [Research](/research) • [Publications](/publications) • [Contact](/contact)
 
