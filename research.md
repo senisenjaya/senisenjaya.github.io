@@ -36,7 +36,13 @@ title: Research
 
 <div class="research-section">
   <h2>Phylogenetics of Zingiberaceae</h2>
-  <img src="/images/your-image-1.jpg" alt="Phylogenetics of Zingiberaceae" class="research-img">
+  <div class="research-figures">
+    <img src="/images/IMG_0041.JPG" alt="Figure 1">
+    <img src="/images/IMG_0046.JPG" alt="Figure 2">
+    <img src="/images/P1012701.JPG" alt="Figure 3">
+    <img src="/images/P6290063.JPG" alt="Figure 4">
+  </div>
+
   <div class="research-text">
     <p>
       My research investigates evolutionary relationships within the ginger family
