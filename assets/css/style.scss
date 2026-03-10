@@ -11,3 +11,18 @@
 .page-header p {
   color: white;
 }
+
+.research-figures {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: nowrap;   /* keeps them in one row */
+  margin: 15px 0;
+}
+
+.research-figures img {
+  width: 22%;          /* four images fit in one row */
+  max-width: 180px;    /* prevents them from becoming huge */
+  height: auto;
+  border-radius: 6px;
+}
