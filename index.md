@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="home-intro">
-  <h1>Senisen Jaya</h1>
+  <h1>Seni Senjaya</h1>
   <p><strong>PhD Student | Plant Systematics & Evolution</strong></p>
   <p>University of British Columbia</p>
 </div>
@@ -13,7 +13,7 @@ title: Home
   <p>
     Welcome to my website. I am a PhD student interested in plant systematics,
     phylogenetics, and evolution, with a particular focus on the ginger family
-    (<em>Zingiberaceae</em>). My research integrates molecular phylogenetics and
+    (Zingiberaceae). My research integrates molecular phylogenetics and
     phylogenomics to investigate evolutionary relationships, diversification,
     and classification within tropical plant lineages.
   </p>
