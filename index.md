@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+[Home](/) • [About](/about) • [Research](/research) • [Publications](/publications) • [Contact](/contact)
 
 <div class="home-intro">
   <h1>Seni Senjaya</h1>
@@ -25,16 +26,8 @@ title: Home
     <li>Plant systematics and phylogenetics</li>
     <li>Phylogenomics</li>
     <li>Evolution of Zingiberaceae</li>
+    <li>Pollination biology of Zingiberaceae</li>
+    <li>Diversity and evolution of sexual systems</li>
     <li>Tropical plant diversity</li>
-  </ul>
-</div>
-
-<div class="home-links">
-  <h2>Explore</h2>
-  <ul>
-    <li><a href="/about">About</a></li>
-    <li><a href="/research">Research</a></li>
-    <li><a href="/publications">Publications</a></li>
-    <li><a href="/contact">Contact</a></li>
   </ul>
 </div>
