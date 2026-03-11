@@ -52,7 +52,7 @@ title: About
 <div class="about-profile">
 
 <div class="about-photo">
-<img src="/images/profile.jpg" alt="Senisen Jaya">
+<img src="/images/IMG_7592.jpeg" alt="Seni Senjaya">
 </div>
 
 <div class="about-text">
