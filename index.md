@@ -54,12 +54,6 @@ title: Home
     diversification in tropical plant lineages.
   </p>
 
-  <div class="home-buttons">
-    <a href="/about">About</a>
-    <a href="/research">Research</a>
-    <a href="/publications">Publications</a>
-    <a href="/contact">Contact</a>
-  </div>
 </div>
 
 <div class="home-section">
