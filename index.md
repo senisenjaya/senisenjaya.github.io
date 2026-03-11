@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-[Home](/) • [About](/about) • [Research](/research) • [Publications](/publications) • [Contact](/contact)
 
 <style>
 .home-text {
