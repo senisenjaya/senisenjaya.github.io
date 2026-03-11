@@ -42,6 +42,13 @@ title: Home
 }
 </style>
 
+<div class="home-buttons">
+    <a href="/about">About</a>
+    <a href="/research">Research</a>
+    <a href="/publications">Publications</a>
+    <a href="/contact">Contact</a>
+</div>
+  
 <div class="home-text">
   <h1>Seni Senjaya</h1>
   <p><strong>PhD Student | Plant Systematics &amp; Evolution</strong></p>
@@ -66,4 +73,12 @@ title: Home
     <li>Diversity and evolution of sexual systems</li>
     <li>Tropical plant diversity</li>
   </ul>
+</div>
+
+<div class="home-section">
+  <h2>Welcome</h2>
+  <p>
+    Welcome to my website. Here you can find information about my research,
+    publications, and academic background.
+  </p>
 </div>
