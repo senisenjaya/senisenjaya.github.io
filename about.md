@@ -68,13 +68,13 @@ I am a PhD student at the **University of British Columbia** studying plant syst
 
 ## Education
 
-- **PhD**, Botany 
+- **PhD**, Botany,
   University of British Columbia  
 
-- **MSc**, Plant Biology
+- **MSc**, Plant Biology,
   IPB University
 
-- **BSc**, Biology
+- **BSc**, Biology,
   IPB University 
 
 </div>
