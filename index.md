@@ -3,20 +3,38 @@ layout: default
 title: Home
 ---
 
+<div class="home-intro">
+  <h1>Senisen Jaya</h1>
+  <p><strong>PhD Student | Plant Systematics & Evolution</strong></p>
+  <p>University of British Columbia</p>
+</div>
 
-[Home](/) • [About](/about) • [Research](/research) • [Publications](/publications) • [Contact](/contact)
+<div class="home-about">
+  <p>
+    Welcome to my website. I am a PhD student interested in plant systematics,
+    phylogenetics, and evolution, with a particular focus on the ginger family
+    (<em>Zingiberaceae</em>). My research integrates molecular phylogenetics and
+    phylogenomics to investigate evolutionary relationships, diversification,
+    and classification within tropical plant lineages.
+  </p>
+</div>
 
-# Seni Senjaya
+<div class="home-interests">
+  <h2>Research Interests</h2>
+  <ul>
+    <li>Plant systematics and phylogenetics</li>
+    <li>Phylogenomics</li>
+    <li>Evolution of Zingiberaceae</li>
+    <li>Tropical plant diversity</li>
+  </ul>
+</div>
 
-PhD Candidate  
-Department of Botany  
-University of British Columbia
-
-My research focuses on the evolution and systematics of the ginger family (Zingiberaceae). Using phylogenomic data, I investigate evolutionary relationships within the family, particularly the genus *Hellwigia*, and use these insights to address long-standing taxonomic questions. I am also interested in the evolution of plant sexual systems and the role of pollination biology in shaping reproductive strategies and diversification in Zingiberaceae.
-
-## News
-- **2026-03** — Website launched.
-- **2025-08** — New paper on **Hellwigia** accepted at **PhytoKeys**.
-
-## Quick links
-- Latest publication: **Reinstatement of Hellwigia Warb. (Zingiberaceae) and its molecular and morphological delimitation**  https://phytokeys.pensoft.net/article/151948/
+<div class="home-links">
+  <h2>Explore</h2>
+  <ul>
+    <li><a href="/about">About</a></li>
+    <li><a href="/research">Research</a></li>
+    <li><a href="/publications">Publications</a></li>
+    <li><a href="/contact">Contact</a></li>
+  </ul>
+</div>
