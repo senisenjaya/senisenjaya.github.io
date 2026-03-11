@@ -69,13 +69,13 @@ title: About
 
 <h2>Education</h2>
 
-<p> PhD, Botany </p> 
+<p><strong> PhD, Botany</strong> </p> 
   <p>University of British Columbia </p> 
 
-<p>MSc, Plant Biology </p>
+<p><strong>MSc, Plant Biology </strong></p>
   <p> IPB University </p>
 
-<p>BSc, Biology </p>
+<p><strong>BSc, Biology </strong></p>
   <p>IPB University</p> 
 
 </div>
