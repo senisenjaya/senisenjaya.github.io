@@ -46,10 +46,7 @@ title: Research
   <div class="research-text">
     <p>
       My research investigates evolutionary relationships within the ginger family
-      (<em>Zingiberaceae</em>) using both traditional DNA markers, such as ITS,
-      and phylogenomic datasets. By integrating single-locus and genomic-scale
-      data, I aim to resolve long-standing uncertainties in the family’s phylogeny
-      and provide a robust framework for understanding diversification and classification.
+      (<em>Zingiberaceae</em>), particularly the genus _Hellwigia_, using DNA marker data and phylogenomic datasets. The goal is to provide a robust phylogenetic framework that can serve as a foundation for taxonomic revision and for analyzing trait evolution within the group. 
     </p>
   </div>
   <div class="pub-list">
