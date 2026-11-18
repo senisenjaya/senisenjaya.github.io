@@ -51,7 +51,7 @@ banner: images/P8153393.JPG
 <div class="research-grid">
 <a class="research-tile" href="/systematics.html">
 <img src="images/1751500830761.JPG" alt="Systematics of Ginger">
-<h3>Systematics &amp; Evolution</h3>
+<h3>Systematics of Ginger</h3>
 <span>Explore research &rarr;</span>
 </a>
 <a class="research-tile" href="/trait-evolution.html">
