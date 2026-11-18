@@ -10,33 +10,13 @@ banner: /images/P8153393.JPG
   <h1>Welcome!</h1>
 
   <p class="academic-position">
-    PhD Student | Plant Systematics &amp; Evolution
-  </p>
-
-  <p class="affiliation">
-    University of British Columbia
-  </p>
-
-  <p>
-    I am interested in understanding the diversity,
-    systematics, and evolution of tropical plants,
-    with a particular focus on the ginger family
-    (Zingiberaceae).
+    I am a PhD candidate in the Dept. of Botany, University of British Columbia. 
+    I am interested in understanding the diversity and evolution of tropical plants,
+    with a particular focus on the ginger family (Zingiberaceae).
   </p>
 
   <p>
-    My research uses molecular phylogenetics and
-    phylogenomics to resolve evolutionary relationships
-    and investigate patterns of diversification in
-    tropical plant lineages. I am also interested in
-    pollination biology and the diversity and evolution
-    of sexual systems in Zingiberaceae.
-  </p>
-
-  <p>
-    Through my research, I aim to contribute to a better
-    understanding of tropical plant diversity and its
-    evolutionary history.
+    My study focuses on documenting species diversity and reconstructing phylogenetic relationships of the ginger family. I use taxonomic and phylogenetic frameworks to understand trait evolution within the family. My particular interest is in sexual and pollination systems and their correlation to floral traits. 
   </p>
 
   <a class="home-link"
