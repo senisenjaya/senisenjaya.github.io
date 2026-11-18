@@ -320,3 +320,12 @@ body {
 .research-item:hover h3 {
   text-decoration: underline;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+#systematics,
+#trait-evolution {
+  scroll-margin-top: 30px;
+}
