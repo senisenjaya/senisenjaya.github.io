@@ -49,15 +49,15 @@ banner: images/P8153393.JPG
 <h2>Research Interests</h2>
 <div class="research-gallery">
 <div class="research-item">
-<a href="/systematics.html">
-<img src="/images/1751500830761.JPG" alt="Systematics of Ginger">
+<a href="/research.html#systematics">
+<img src="/images/1751500830761.JPG" alt="Systematics and evolution">
 <h3>Systematics of Ginger</h3>
 </a>
 </div>
 <div class="research-item">
-<a href="/trait-evolution.html">
+<a href="/research.html#trait-evolution">
 <img src="/images/RCNX1927.JPG" alt="Trait diversity and evolution">
-<h3>Trait diversity &amp; evolution</h3>
+<h3>Trait Diversity &amp; Evolution</h3>
 </a>
 </div>
 </div>
