@@ -1,3 +1,9 @@
-title: Senisenjaya
-description: Research, publications, and news
+title: Seni Senjaya
+description: Plant Systematics & Evolution
 theme: jekyll-theme-cayman
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
