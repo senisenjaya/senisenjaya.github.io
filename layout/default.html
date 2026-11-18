@@ -14,26 +14,35 @@
 
 <body>
 
-  <nav class="site-nav">
-    <a href="{{ '/' | relative_url }}">Home</a>
-    <a href="{{ '/about.html' | relative_url }}">About</a>
-    <a href="{{ '/research.html' | relative_url }}">Research</a>
-    <a href="{{ '/publications.html' | relative_url }}">Publications</a>
-    <a href="{{ '/contact.html' | relative_url }}">Contact</a>
-  </nav>
+  <div class="site-top">
+    <div class="site-identity">
+      <a href="{{ '/' | relative_url }}">
+        {{ site.title }}
+      </a>
+      <span>{{ site.description }}</span>
+    </div>
 
-  <header class="page-header">
-    <h1 class="project-name">{{ site.title }}</h1>
-    <p class="project-tagline">{{ site.description }}</p>
-  </header>
+    <nav class="site-nav">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about.html' | relative_url }}">About</a>
+      <a href="{{ '/research.html' | relative_url }}">Research</a>
+      <a href="{{ '/publications.html' | relative_url }}">Publications</a>
+      <a href="{{ '/contact.html' | relative_url }}">Contact</a>
+    </nav>
+  </div>
+
+  {% if page.url == "/" or page.url == "/index.html" %}
+    <header class="page-header"></header>
+  {% endif %}
 
   <main class="main-content">
     {{ content }}
-
-    <footer class="site-footer">
-      &copy; {{ site.time | date: '%Y' }} {{ site.title }}
-    </footer>
   </main>
+
+  <footer class="site-footer">
+    &copy; {{ site.time | date: '%Y' }} Seni Senjaya
+    | University of British Columbia
+  </footer>
 
 </body>
 </html>
