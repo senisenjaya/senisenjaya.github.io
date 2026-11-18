@@ -45,34 +45,22 @@ banner: images/P8153393.JPG
 
 </div>
 
+
 <div class="home-section">
-
-  <h2>Research Interests</h2>
-
-  <div class="research-grid">
-
-    <div class="research-card">
-
-      <h3>Systematics &amp; Evolution</h3>
-
-      <p>
-        Plant systematics and phylogenetic relationships of Zingiberaceae.
-      </p>
-
-    </div>
-
-    <div class="research-card">
-
-      <h3>Trait diversity and evolution</h3>
-
-      <p>
-        Dynamics and evolution of sexual systems in the ginger family.
-        Diversity of pollination systems and its correlation to floral trait evolution. 
-      </p>
-
-    </div>
-
-  </div>
+<h2>Research Interests</h2>
+<div class="research-grid">
+<a class="research-tile" href="/systematics.html">
+<img src="/images/systematics.JPG" alt="Ginger diversity and systematics">
+<h3>Systematics &amp; Evolution</h3>
+<span>Explore research &rarr;</span>
+</a>
+<a class="research-tile" href="/trait-evolution.html">
+<img src="/images/trait-evolution.JPG" alt="Floral diversity in Zingiberaceae">
+<h3>Trait Diversity &amp; Evolution</h3>
+<span>Explore research &rarr;</span>
+</a>
+</div>
+</div>
 
   <div style="text-align: center;">
 
