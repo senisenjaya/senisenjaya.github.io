@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Home
@@ -56,33 +55,18 @@ title: Home
       <h3>Systematics &amp; Evolution</h3>
 
       <p>
-        Plant systematics, molecular phylogenetics,
-        phylogenomics, and evolutionary relationships
-        within Zingiberaceae.
+        Plant systematics and phylogenetic relationships of Zingiberaceae.
       </p>
 
     </div>
 
     <div class="research-card">
 
-      <h3>Reproductive Biology</h3>
+      <h3>Trait diversity and evolution</h3>
 
       <p>
-        Pollination biology and the diversity
-        and evolution of sexual systems
-        in the ginger family.
-      </p>
-
-    </div>
-
-    <div class="research-card">
-
-      <h3>Tropical Plant Diversity</h3>
-
-      <p>
-        Understanding the origins, diversification,
-        and evolutionary history of tropical
-        plant lineages.
+        Dynamics and evolution of sexual systems in the ginger family.
+        Diversity of pollination systems and its correlation to floral trait evolution. 
       </p>
 
     </div>
