@@ -81,11 +81,10 @@ body {
 /* Homepage photograph */
 
 .page-header {
-  background:
-    url('{{ "/images/P1012701.JPG" | relative_url }}')
-    center center / cover no-repeat !important;
-
-  height: clamp(280px, 38vw, 480px);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: clamp(220px, 30vw, 400px);
   min-height: 0;
   padding: 0;
 }
