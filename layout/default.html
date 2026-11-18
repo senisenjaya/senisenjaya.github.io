@@ -31,8 +31,10 @@
     </nav>
   </div>
 
-  {% if page.url == "/" or page.url == "/index.html" %}
-    <header class="page-header"></header>
+  {% if page.banner %}
+  <header class="page-header"
+    style="background-image: url('{{ page.banner | relative_url }}');">
+  </header>
   {% endif %}
 
   <main class="main-content">
