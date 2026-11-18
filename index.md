@@ -50,7 +50,7 @@ banner: images/P8153393.JPG
 <h2>Research Interests</h2>
 <div class="research-grid">
 <a class="research-tile" href="/systematics.html">
-<img src="/images/systematics.JPG" alt="Ginger diversity and systematics">
+<img src="images/1751500830761.JPG" alt="Ginger diversity and systematics">
 <h3>Systematics &amp; Evolution</h3>
 <span>Explore research &rarr;</span>
 </a>
