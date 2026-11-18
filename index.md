@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-banner: /images/P1012701.JPG
+banner: images/P8153393.JPG
 ---
 
 <div class="home-text">
