@@ -273,3 +273,50 @@ body {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
+
+
+/* Homepage research gallery */
+
+.research-gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 25px;
+  width: 100%;
+  margin: 30px auto;
+}
+
+.research-item {
+  flex: 1 1 0;
+  min-width: 0;
+  text-align: center;
+}
+
+.research-item img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.research-item h3 {
+  font-family: Georgia, serif;
+  font-size: clamp(16px, 2vw, 24px);
+  font-weight: 400;
+  color: #304638;
+  margin: 15px 0;
+}
+
+.research-item a {
+  text-decoration: none;
+}
+
+.research-item:hover img {
+  opacity: 0.85;
+}
+
+.research-item:hover h3 {
+  text-decoration: underline;
+}
