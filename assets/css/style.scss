@@ -4,67 +4,90 @@
 
 @import "{{ site.theme }}";
 
-/* General website appearance */
+/* Colour palette */
+
+:root {
+  --forest: #304638;
+  --sage: #788c75;
+  --cream: #f4f5f0;
+  --text: #383838;
+  --border: #e2e5df;
+}
+
+/* General appearance */
+
+* {
+  box-sizing: border-box;
+}
 
 body {
   margin: 0;
-  background-color: #ffffff;
-  color: #333333;
+  background: #ffffff;
+  color: var(--text);
   font-family: "Open Sans", Arial, sans-serif;
-  line-height: 1.8;
+  font-size: 16px;
+  line-height: 1.85;
 }
 
-/* Header photograph */
+/* Website identity and navigation */
 
-.page-header {
-  background:
-    linear-gradient(rgba(0,0,0,0.20), rgba(0,0,0,0.30)),
-    url('{{ "/images/P1012701.JPG" | relative_url }}')
-    center center / cover no-repeat !important;
-
-  min-height: 400px;
-  padding: 60px 20px;
+.site-top {
+  max-width: 1250px;
+  margin: auto;
+  padding: 25px 35px;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
   align-items: center;
-  text-align: center;
+  justify-content: space-between;
+  gap: 25px;
 }
 
-.project-name {
-  font-size: clamp(2rem, 5vw, 3.5rem);
-  font-weight: 600;
-  color: white;
-  letter-spacing: 1px;
+.site-identity a {
+  display: block;
+  color: var(--forest);
+  font-family: Georgia, serif;
+  font-size: 32px;
+  text-decoration: none;
+  line-height: 1.3;
 }
 
-.project-tagline {
-  color: white;
-  opacity: 1;
-  font-size: 1.2rem;
+.site-identity span {
+  display: block;
+  color: #777777;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  margin-top: 5px;
 }
-
-/* Navigation menu */
 
 .site-nav {
   display: flex;
-  justify-content: center;
   flex-wrap: wrap;
-  gap: 28px;
-  padding: 20px;
-  background: white;
-  border-bottom: 1px solid #e5e5e5;
+  gap: 25px;
 }
 
 .site-nav a {
-  color: #304638;
-  text-decoration: none;
-  font-size: 15px;
+  color: var(--forest);
+  font-size: 14px;
   font-weight: 600;
+  text-decoration: none;
+  padding: 5px 0;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.2s;
 }
 
 .site-nav a:hover {
-  color: #788c75;
+  border-bottom-color: var(--sage);
+}
+
+/* Homepage photograph */
+
+.page-header {
+  background:
+    url('{{ "/images/P1012701.JPG" | relative_url }}')
+    center center / cover no-repeat !important;
+
+  height: clamp(280px, 38vw, 480px);
+  min-height: 0;
+  padding: 0;
 }
 
 /* Main content */
@@ -72,50 +95,68 @@ body {
 .main-content {
   max-width: 1100px;
   margin: auto;
-  padding: 50px 30px;
-  font-size: 17px;
+  padding: 50px 35px 70px;
+  font-size: 16px;
 }
 
 .main-content h1,
 .main-content h2,
 .main-content h3 {
-  color: #304638;
-  font-weight: 500;
+  color: var(--forest);
+  font-family: Georgia, serif;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+.main-content h1 {
+  font-size: 36px;
+}
+
+.main-content h2 {
+  font-size: 28px;
+  margin-top: 35px;
 }
 
 .main-content a {
   color: #52765a;
 }
 
-/* Introduction section */
+/* Homepage introduction */
 
-.intro-section {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  align-items: center;
-  gap: 35px;
-  margin: 30px 0 50px;
+.home-text {
+  max-width: 850px;
+  margin: 0 auto 45px;
 }
 
-.intro-section img {
-  width: 100%;
-  border-radius: 4px;
+.home-text h1 {
+  margin: 0 0 15px;
 }
 
-/* Research photographs */
-
-.research-figures {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 18px;
-  margin: 30px 0;
+.home-text p {
+  margin: 12px 0;
 }
 
-.research-figures img {
-  width: 100%;
-  height: 180px;
-  object-fit: cover;
-  border-radius: 4px;
+.academic-position {
+  font-size: 18px;
+  color: var(--forest);
+  font-weight: 600;
+}
+
+.affiliation {
+  color: #777777;
+}
+
+/* Homepage sections */
+
+.home-section {
+  margin: 45px 0;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+
+.home-section > h2 {
+  text-align: center;
+  margin-bottom: 28px;
 }
 
 /* Research cards */
@@ -123,57 +164,113 @@ body {
 .research-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 25px;
-  margin: 30px 0;
+  gap: 24px;
 }
 
 .research-card {
-  background: #f6f5f0;
-  overflow: hidden;
-  border-radius: 5px;
-  text-align: center;
+  background: var(--cream);
+  padding: 25px;
+  border-top: 3px solid var(--sage);
+}
+
+.research-card h3 {
+  margin: 0 0 15px;
+  font-size: 22px;
+}
+
+.research-card p {
+  font-size: 15px;
+  margin-bottom: 0;
 }
 
 .research-card img {
   width: 100%;
-  height: 210px;
+  height: 230px;
   object-fit: cover;
 }
 
-.research-card h3 {
-  margin: 15px;
+/* Research page photographs */
+
+.research-figures {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 15px;
+  margin: 25px 0;
+}
+
+.research-figures img {
+  width: 100%;
+  height: auto;
+  border-radius: 3px;
+}
+
+/* Research link */
+
+.home-link {
+  display: inline-block;
+  margin-top: 25px;
+  padding: 10px 22px;
+  border: 1px solid var(--forest);
+  text-decoration: none;
+  color: var(--forest) !important;
+  transition: background 0.2s;
+}
+
+.home-link:hover {
+  background: var(--forest);
+  color: white !important;
+  text-decoration: none;
 }
 
 /* Footer */
 
 .site-footer {
-  border-top: 1px solid #dddddd;
-  color: #777777;
+  background: var(--cream);
+  border-top: 1px solid var(--border);
+  padding: 30px 20px;
+  margin: 0;
   text-align: center;
-  padding: 30px 0;
+  color: #777777;
+  font-size: 13px;
 }
 
-/* Mobile layout */
+/* Mobile and tablet */
 
-@media screen and (max-width: 700px) {
-  .page-header {
-    min-height: 280px;
-  }
+@media screen and (max-width: 800px) {
 
-  .site-nav {
+  .site-top {
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
     gap: 15px;
   }
 
-  .main-content {
-    padding: 25px 20px;
+  .site-nav {
+    justify-content: center;
+    gap: 15px;
   }
 
-  .intro-section,
+  .site-nav a {
+    font-size: 13px;
+  }
+
+  .site-identity a {
+    font-size: 28px;
+  }
+
+  .main-content {
+    padding: 30px 22px;
+  }
+
+  .main-content h1 {
+    font-size: 30px;
+  }
+
   .research-grid {
     grid-template-columns: 1fr;
   }
 
   .research-figures {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
