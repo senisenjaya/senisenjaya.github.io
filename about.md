@@ -57,7 +57,7 @@ title: About
 
 <div class="about-text">
   <p> 
-    I am a PhD student at the <strong>University of British Columbia</strong> studying plant systematics and evolution. My research focuses on the evolution and systematics of the ginger family <strong>(Zingiberaceae)</strong>, integrating morphological data and molecular phylogenetics to investigate patterns of diversification and evolutionary relationships within this diverse group of tropical plants. I am particularly interested in improving phylogenetic resolution using genomic-scale datasets and applying these insights to questions of classification and evolutionary history. My current work focuses on the genus <em>Hellwigia</em>, where I use phylogenetic evidence to clarify relationships and refine our understanding of diversity within Zingiberaceae. More broadly, I am interested in how reproductive biology influences plant diversification. I explore the evolution of plant sexual systems and the role of pollination biology in shaping reproductive strategies and evolutionary patterns in Zingiberaceae.
+    I am a PhD student at the <strong>University of British Columbia</strong> studying plant systematics and trait evolution. My research focuses on the systematics of the ginger family <strong>(Zingiberaceae)</strong>. I integrate morphological data and molecular phylogenetics to investigate evolutionary relationships within this diverse tropical group. I use phylogenetic trees and morphological data as a foundation for understanding trait evolution, particularly sexual and pollination traits. My current work focuses on the genus <em>Hellwigia</em>, where I use phylogenetic evidence to clarify relationships and revise the group's classification. My study also investigates the evolution of the monoecious sexual system within this group and its potential correlation to pollination-related floral traits. I am also interested in filling the gaps in our understanding of the reproductive biology of this group. My goal is to gather empirical evidence on pollination and the sexual system of the ginger family and further use it to reconstruct the evolution of these two systems. My current work focuses on _Hellwigia rubrovaginata,_observed the dynamics of gender expression within its natural population.
 </p>
 </div>
 
@@ -70,10 +70,8 @@ title: About
 
 <p><strong> PhD, Botany</strong> </p> 
   <p>University of British Columbia </p> 
-
 <p><strong>MSc, Plant Biology </strong></p>
   <p> IPB University </p>
-
 <p><strong>BSc, Biology </strong></p>
   <p>IPB University</p> 
 
