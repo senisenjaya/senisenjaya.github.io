@@ -3,8 +3,6 @@ layout: default
 title: Contact
 ---
 
-[Home](/) • [About](/about) • [Research](/research) • [Publications](/publications) • [Contact](/contact)
-
 # Contact
 
 Email: **seni.senjaya@botany.ubc.ca**;  **seni001@brin.go.id**
