@@ -3,8 +3,6 @@ layout: default
 title: Research
 ---
 
-[Home](/) • [About](/about) • [Research](/research) • [Publications](/publications) • [Contact](/contact)
-
 <style>
 .research-section {
   margin: 3rem 0;
