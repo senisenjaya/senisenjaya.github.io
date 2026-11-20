@@ -3,8 +3,6 @@ layout: default
 title: Publications
 ---
 
-[Home](/) • [About](/about) • [Research](/research) • [Publications](/publications) • [Contact](/contact)
-
 # Publications
 
 ## 2026
